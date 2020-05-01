@@ -16,10 +16,10 @@ contact_methods:
       title: Address
       icon: fa-map-marker
       text: |-
-        Untitled Corp  
+        Laseter's Tavern  
         1234 Fictional Road  
         Suite 5432  
-        Nashville, TN 00000
+        Vinings, GA 00000
   methods_col2:
     - type: contact_with_text
       title: Phone
