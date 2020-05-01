@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "title": "Laseter's Tavern",
     "landing_template": "home",
     "palette": "blue",
@@ -30,5 +31,38 @@
                 "accent3": "#e286a9"
             }
         }
+=======
+  "title": "Laseter's Tavern",
+  "landing_template": "home",
+  "palette": "tan",
+  "palettes": {
+    "blue": {
+      "sass": {
+        "gradient1": "#27a1e3",
+        "gradient2": "#e7232a",
+        "accent1": "#5f9dd2",
+        "accent2": "#758ce1",
+        "accent3": "#e286a9"
+      }
+    },
+    "green": {
+      "sass": {
+        "gradient1": "#16f4cf",
+        "gradient2": "#6532e5",
+        "accent1": "#54d3cf",
+        "accent2": "#4f92d1",
+        "accent3": "#8075e5"
+      }
+    },
+    "tan": {
+      "sass": {
+        "gradient1": "brown",
+        "gradient2": "green",
+        "accent1": "#5f9dd2",
+        "accent2": "#758ce1",
+        "accent3": "#e286a9"
+      }
+>>>>>>> 1ffc05be3cfd5b966a3ec2f606761dcf3ba8be08
     }
   }
+}
