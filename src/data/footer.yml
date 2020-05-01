@@ -27,7 +27,7 @@ contact_methods:
     - type: contact_with_link
       title: Email
       icon: fa-envelope-o
-      text: information@untitled.tld
+      text: rich@somewhere.net
       url: '#'
 copyright:
   enabled: true
