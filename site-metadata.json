@@ -1,5 +1,5 @@
 {
-    "title": "Archetype",
+    "title": "Laseter's Tavern",
     "landing_template": "home",
     "palette": "blue",
     "palettes": {
@@ -19,6 +19,15 @@
                 "accent1": "#54d3cf",
                 "accent2": "#4f92d1",
                 "accent3": "#8075e5"
+            }
+        },
+        "tan": {
+            "sass": {
+                "gradient1": "#27a1e3",
+                "gradient2": "#e7232a",
+                "accent1": "#5f9dd2",
+                "accent2": "#758ce1",
+                "accent3": "#e286a9"
             }
         }
     }
