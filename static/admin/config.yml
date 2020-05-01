@@ -30,6 +30,7 @@ collections:
             options:
               - blue
               - green
+              - tan
           - widget: hidden
             name: palettes
             label: Palettes
