@@ -10,7 +10,7 @@ sidebar:
   side: left
 menus:
   footer:
-    title: Terms of Use
+    title: WV Masons
     weight: 1
 template: page
 ---

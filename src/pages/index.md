@@ -1,10 +1,10 @@
 ---
 title: home
 banner:
-  title: Amet donec nullam fermentum
-  subtitle: Sed magna in pharetra ultricies dolor sit consequat magna.
+  title: Order a gift card today!
+  subtitle: Mother's Day is around the corner.  Treat Mom this holiday.
   actions:
-    - label: Learn More
+    - label: Purchase Gift Card
       url: /no-sidebar
       is_primary: false
       is_scrolly: false
