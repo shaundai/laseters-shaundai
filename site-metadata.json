@@ -1,7 +1,7 @@
 {
   "title": "Laseter's Tavern",
   "landing_template": "home",
-  "palette": "blue",
+  "palette": "green",
   "palettes": {
     "blue": {
       "sass": {
