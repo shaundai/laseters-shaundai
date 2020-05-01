@@ -16,15 +16,14 @@ contact_methods:
       title: Address
       icon: fa-map-marker
       text: |-
-        Laseter's Tavern  
-        1234 Fictional Road  
-        Suite 5432  
-        Vinings, GA 00000
+        Laseter's Tavern @ Vinings 
+        4355 Cobb Pkwy SE
+        Atlanta, GA 30339
   methods_col2:
     - type: contact_with_text
       title: Phone
       icon: fa-phone
-      text: (000) 000-0000
+      text: (770) 850-8570
     - type: contact_with_link
       title: Email
       icon: fa-envelope-o
@@ -32,4 +31,4 @@ contact_methods:
       url: '#'
 copyright:
   enabled: true
-  text: '&copy; Untitled. All rights reserved.'
+  text: '&copy; Shaundai Person. All rights reserved.'
