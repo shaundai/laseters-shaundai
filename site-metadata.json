@@ -23,8 +23,8 @@
         },
         "tan": {
             "sass": {
-                "gradient1": "#27a1e3",
-                "gradient2": "#e7232a",
+                "gradient1": "brown",
+                "gradient2": "green",
                 "accent1": "#5f9dd2",
                 "accent2": "#758ce1",
                 "accent3": "#e286a9"
