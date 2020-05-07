@@ -1,9 +1,8 @@
 about:
   enabled: true
-  title: Integer vitae sed feugiat
+  title: About Us
   text: >-
-    Lorem ipsum dolor sit amet interdum mollis sapien. Sed amet ac lorem ipsum
-    interdum tempus sagittis lorem tempus.
+    Founded in 2017, Laseter's is a huge part of the Atlanta area
   actions:
     - label: Learn More
       url: /no-sidebar
