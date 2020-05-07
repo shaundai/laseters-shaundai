@@ -2,7 +2,13 @@
     "main": [
         {
             "identifier": "layouts",
-            "title": "Meniu",
+            "title": "Menu",
+            "url": "#",
+            "weight": 2
+        },
+        {
+            "identifier": "layouts",
+            "title": "About",
             "url": "#",
             "weight": 2
         }
@@ -10,13 +16,13 @@
     "layouts": [
         {
             "identifier": "normal1",
-            "title": "Left Sidebar",
+            "title": "Leyft Sidebar",
             "url": "/left-sidebar",
             "weight": 1
         },
         {
             "identifier": "normal2",
-            "title": "Right Sidebar",
+            "title": "Rahght Sidebar",
             "url": "/right-sidebar",
             "weight": 2
         },
