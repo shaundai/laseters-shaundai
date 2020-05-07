@@ -2,7 +2,7 @@ about:
   enabled: true
   title: About Us
   text: >-
-    Founded in 2017, Laseter's is a huge part of the Atlanta area
+    Founded in 2017, Laseter's is a huge part of the Atlanta
   actions:
     - label: Learn More
       url: /no-sidebar
@@ -30,4 +30,4 @@ contact_methods:
       url: '#'
 copyright:
   enabled: true
-  text: 'Built with love for Laseter's by Shaundai Person.'
+  text: 'Built with love for Laseters by Shaundai Person'
