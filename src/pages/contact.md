@@ -9,7 +9,7 @@ sidebar:
   enabled: false
   side: left
 menus:
-  footer:
+  main:
     title: Contact
     weight: 3
 template: page

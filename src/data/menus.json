@@ -7,6 +7,7 @@
             "weight": 2
         },
         {
+            "identifier": "about",
             "title": "About",
             "url": "#",
             "weight": 3
@@ -15,13 +16,13 @@
     "layouts": [
         {
             "identifier": "normal1",
-            "title": "Leyft Sidebar",
+            "title": "Left Sidebar",
             "url": "/left-sidebar",
             "weight": 1
         },
         {
             "identifier": "normal2",
-            "title": "Rahght Sidebar",
+            "title": "Right Sidebar",
             "url": "/right-sidebar",
             "weight": 2
         },
@@ -60,6 +61,18 @@
         {
             "identifier": "normal7",
             "title": "Option Four",
+            "url": "#",
+            "weight": 4
+        }
+    ],
+    "about": [
+        {
+            "title": "History",
+            "url": "#",
+            "weight": 4
+        },
+        {
+            "title": "Directions",
             "url": "#",
             "weight": 4
         }
