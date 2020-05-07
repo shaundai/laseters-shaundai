@@ -15,6 +15,16 @@
     ],
     "layouts": [
         {
+            "title": "Dine-In/Delivery",
+            "url": "/dineinmenu",
+            "weight": 1
+        },
+        {
+            "title": "Catering",
+            "url": "/cateringmenu",
+            "weight": 2
+        },
+        {
             "identifier": "normal1",
             "title": "Left Sidebar",
             "url": "/left-sidebar",
