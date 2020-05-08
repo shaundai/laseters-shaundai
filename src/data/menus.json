@@ -11,8 +11,13 @@
             "title": "About",
             "url": "#",
             "weight": 3
-        }
-    ],
+        },
+        {
+        "title": "Order",
+        "url": "#",
+        "weight": 4
+    }
+],
     "layouts": [
         {
             "title": "Dine-In/Delivery",
