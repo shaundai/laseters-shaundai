@@ -36,12 +36,7 @@
 		}
 
 		h1 {
-			@include icon;
-			color: _palette(accent4, fg-bold);
-			display: inline-block;
-			height: inherit;
-			line-height: inherit;
-			margin-left: 1.5em;
+
 
 			a {
 				display: inline-block;
