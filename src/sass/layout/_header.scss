@@ -36,6 +36,7 @@
 		}
 
 		h1 {
+			@include icon;
 			color: _palette(accent4, fg-bold);
 			display: inline-block;
 			height: inherit;
