@@ -46,7 +46,7 @@ sections:
     component: Features
   - type: cta
     section_id: cta
-    title: Ultrices ante sagittis nunc senectus libero netus
+    title: Order Curbside to go
     actions:
       - label: How it works
         url: /contact
