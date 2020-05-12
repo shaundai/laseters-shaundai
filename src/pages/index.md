@@ -2,7 +2,7 @@
 title: home
 banner:
   title: Order a gift card today!
-  subtitle: Mother's Day is around the corner.  Treat Mom this holiday.
+  subtitle: Father's Day is around the corner.  Treat Dad this holiday.
   actions:
     - label: Purchase Gift Card
       url: /no-sidebar
@@ -13,7 +13,7 @@ sections:
   - type: features
     section_id: features
     features:
-      - title: Integer vitae consequat sed magna feugiat
+      - title: About this location
         icon:
           enabled: true
           icon: fa-area-chart
