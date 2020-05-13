@@ -4,11 +4,16 @@ about:
   text: >-
     Founded in 2017, Laseter's is a huge part of the Atlanta
   actions:
-    - label: Learn More
+    - label: Facebook
       icon: fa-facebook-square
       url: /no-sidebar
       is_primary: false
       is_scrolly: false
+    - label: Twitter
+    icon: fa-facebook-square
+    url: /no-sidebar
+    is_primary: false
+    is_scrolly: false
 contact_methods:
   enabled: true
   methods_col1:
