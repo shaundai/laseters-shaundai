@@ -18,7 +18,7 @@ export default class Footer extends React.Component {
                                 {_.get(this.props, 'pageContext.site.data.footer.about.actions') && 
                                     <ul className="actions">
                                         {_.map(_.get(this.props, 'pageContext.site.data.footer.about.actions'), (action, action_idx) => (
-                                            <li key={action_idx}><Link to={(_.get(action, 'url').startsWith('#') ? _.get(action, 'url') : safePrefix(_.get(action, 'url')))} className={'icon ' + _.get(action, 'icon')} style={{height:'40em', width:'40em'}}></Link></li>
+                                            <li key={action_idx}><Link to={(_.get(action, 'url').startsWith('#') ? _.get(action, 'url') : safePrefix(_.get(action, 'url')))} className={'icon ' + _.get(action, 'icon')} style={{fontSize:'8em'}}></Link></li>
                                         ))}
                                     </ul>
                                 }
