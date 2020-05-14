@@ -5,8 +5,8 @@ about:
     Join the Laseter community on social media!
   actions:
     - label: Facebook
-      icon: fa-map-marker
-      url: /no-sidebar
+      icon: fa-facebook-square
+      url: https://www.facebook.com/LasetersTavern
       is_primary: false
       is_scrolly: false
     - label: Twitter
@@ -14,8 +14,8 @@ about:
       url: /no-sidebar
       is_primary: false
       is_scrolly: false
-    - label: Twitter
-      icon: fa-twitter-square
+    - label: Instagram
+      icon: fa-instagram
       url: /no-sidebar
       is_primary: false
       is_scrolly: false
