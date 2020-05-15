@@ -46,7 +46,7 @@ sections:
     component: Features
   - type: cta
     section_id: cta
-    title: Now offering Curbside-to-go
+    title: Curbside-to-go
     actions:
       - label: Order now
         url: /contact
