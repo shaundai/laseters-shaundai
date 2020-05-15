@@ -62,8 +62,8 @@ sections:
     component: Cta
   - type: posts
     section_id: posts
-    title: Convallis amet interdum
-    subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
+    title: Featured Menu Items
+    subtitle: Call for today's specials!
     component: Posts
 menus:
   main:
