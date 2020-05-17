@@ -13,31 +13,11 @@ sections:
   - type: features
     section_id: features
     features:
-      - title: About this location
+      - title: About Laseter's Tavern
         icon:
-          enabled: true
+          enabled: false
           icon: fa-area-chart
           style: style1
-        description: >-
-          Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
-          Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem
-          ipsum interdum sed tempus sagittis lorem feugiat. In fringilla diet
-          consectetur. Morbi libero orci, consectetur in odio maximus felis.
-      - title: Phasellus libero eu sed augue gravida
-        icon:
-          enabled: true
-          icon: fa-pie-chart
-          style: style2
-        description: >-
-          Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
-          Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem
-          ipsum interdum sed tempus sagittis lorem feugiat. In fringilla diet
-          consectetur. Morbi libero orci, consectetur in odio maximus felis.
-      - title: Lacus ultricies sagittis mi dui dapibus
-        icon:
-          enabled: true
-          icon: fa-cube
-          style: style3
         description: >-
           Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
           Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem
