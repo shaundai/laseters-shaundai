@@ -14,10 +14,6 @@ sections:
     section_id: features
     features:
       - title: About Laseter's Tavern
-        icon:
-          enabled: false
-          icon: fa-area-chart
-          style: style1
         description: >-
           Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
           Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem
