@@ -2,7 +2,7 @@
 title: home
 banner:
   title: Order a gift card today!
-  subtitle: Father's Day is around the corner.  Treat Dad this holiday.
+  subtitle: Father's Day is right around the corner.  Treat Dad this holiday.
   actions:
     - label: Purchase Gift Card
       url: /no-sidebar
