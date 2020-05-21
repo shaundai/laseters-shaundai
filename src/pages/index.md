@@ -15,7 +15,7 @@ sections:
     features:
       - title: About Laseter's Tavern
         description: >-
-          Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
+          Learning tests.  Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
           Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem
           ipsum interdum sed tempus sagittis lorem feugiat. In fringilla diet
           consectetur. Morbi libero orci, consectetur in odio maximus felis.
