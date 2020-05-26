@@ -30,7 +30,7 @@ sections:
         is_scrolly: false
     text: >-
       Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus. Phasellus
-      lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem ipsum interdum
+      lacinia, laoreet, lectus arcu pulvinar lorem ipsum interdum
       sed tempus sagittis lorem feugiat. In fringilla diet consectetur. Morbi
       libero orci, consectetur in odio maximus felis. Lorem ipsum ullamcorper
       laoreet, lectus arcu pulvinar lorem ipsum interdum sed tempus sagittis
